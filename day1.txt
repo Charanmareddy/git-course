@@ -1,1 +1,7 @@
 hello world !!!!
+
+hi i am basic git commands
+git init
+git add filename
+
+
