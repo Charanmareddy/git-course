@@ -1,2 +1,0 @@
-username = naveeen
-password = 1234
