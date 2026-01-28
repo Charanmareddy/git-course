@@ -4,4 +4,7 @@ hi i am basic git commands
 git init
 git add filename
 
+git commit -m "Message"
+
+
 
