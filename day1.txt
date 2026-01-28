@@ -7,4 +7,4 @@ git add filename
 git commit -m "Message"
 
 
-
+git remote add origin repoulr
