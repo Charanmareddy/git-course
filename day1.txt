@@ -8,3 +8,7 @@ git commit -m "Message"
 
 
 git remote add origin repoulr
+
+create a new feature
+
+create new git commands
